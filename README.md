@@ -65,8 +65,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-datasci&theme=tokyonight" alt="GitHub Streak" />
 </p>
-### 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/sakshi-datasci/sakshi-datasci/blob/output/github-contribution-grid-snake.svg)
-
-
