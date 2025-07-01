@@ -1,5 +1,6 @@
-
-
+<p align="center">
+  <img src="https://github.com/Sakshi-datasci/Sakshi-datasci/blob/main/SakshiKumari-ezgif.com-speed.gif" width="100%" alt="Banner" />
+</p>
 
 <p align="center">
 
@@ -100,6 +101,10 @@ ___
 ### 📊 GitHub Stats
 ___
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakshi-datasci&theme=tokyonight&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakshi-datasci&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
@@ -108,5 +113,28 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-datasci&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sakshi-datasci&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+___
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi-datasci&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<a href="https://github.com/sakshi-datasci">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshi-datasci&theme=tokyonight" />
+</a>
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
+
+### ✨ Quote of the Day
+___
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
